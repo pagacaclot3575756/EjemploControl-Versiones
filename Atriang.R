@@ -1,3 +1,3 @@
-AreaTriang<-def(base,altura){
+AreaTriang<-function(base,altura){
   base*altura/2
 }
