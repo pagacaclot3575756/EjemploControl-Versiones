@@ -1,3 +1,3 @@
-AreaRect<-def(base/altura){
-  base*altura
+AreaRect<-function(base,altura){
+  return(base*altura)
 }
